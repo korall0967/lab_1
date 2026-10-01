@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="WarehouseLibrary/WarehouseLibrary.csproj" Id="50cf51d0-161c-4020-810e-43ccad14537a" />
+</Solution>
